@@ -1,4 +1,5 @@
-# rodolphe
+# Hi there
+
 Who am I? What do I do?
 I am rodolphe, I live in Togo. 
 I'm interested in code, but i'm not developer. Sorry! 
